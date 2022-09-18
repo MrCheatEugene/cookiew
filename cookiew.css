@@ -1,0 +1,18 @@
+.cookiew{
+	z-index: 69420;
+	position: fixed;
+	bottom: 0;
+	background-color: white;
+	width: 100%;
+	pointer-events: none;
+}
+.contents-cookiew{
+	pointer-events: all;
+	margin-top: 1%;
+	width: 100%;
+	height: auto;
+}
+.cookiew-closed{
+	pointer-events: none;
+	display: none!important;
+}
