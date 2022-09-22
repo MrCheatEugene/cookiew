@@ -121,17 +121,13 @@ viewBox="0 0 5185.38 6045.36"
    <path class="fil6" d="M3154.79 2195.86c38.48,36.55 58.95,52.36 119.65,26.71 26.66,-52.84 27,-61.83 -1.89,-117.06 -68.4,-11.28 -118.71,21.4 -117.76,90.35z"/>
    <path class="fil6" d="M2937.47 1803c-62.13,62.86 37.27,123.96 80.67,81.48 21.5,-21.02 23.84,-72.47 2.16,-92.5 -11.88,-10.98 -25.96,-12.84 -45.85,-10.11 -60.83,8.31 -24.24,8.25 -36.98,21.13z"/>
   </g>
-  <text x="" y="3615.75"  class="fil7 fnt0">Мы используем </text>
-  <text x="2959.7" y="3615.75"  class="fil7 fnt0">Cookies. </text>
+  <text x="" y="3615.75"  class="fil7 fnt0">Мы используем Cookies. </text>
   <text x="" y="4178.85"  class="fil7 fnt1">Используя сайт, вы </text>
   <text x="" y="4741.95"  class="fil7 fnt1">соглашаетесь</text>
   <text x="" y="5305.05"  class="fil7 fnt1">на использование нами </text>
   <text x="" y="5868.15"  class="fil7 fnt1">файлов </text>
-  <text x="1716.89" y="5868.15"  class="fil7 fnt1">Cookies.     </text>
-  <a href="javascript:closeCookieW()">
-  <text x="3943.14" y="5868.15"  class="fil8 fnt2">[</text>
-  <text x="4695.19" y="5868.15"  class="fil8 fnt2">]</text>
-  <text x="4099.42" y="5868.15"  class="fil8 fnt2">ОК</text>
+  <text x="1716.89" y="5868.15"  class="fil7 fnt1">Cookies.     </text><a href="javascript:closeCookieW()">
+  <text x="3943.14" y="5868.15"  class="fil8 fnt2">[ОК]</text>
 </a>
   <polygon class="fil8" points="3943.14,5906.63 4099.42,5906.63 4099.42,5925.87 3943.14,5925.87 "/>
   <polygon id="1" class="fil8" points="4099.42,5906.63 4695.19,5906.63 4695.19,5925.87 4099.42,5925.87 "/>
